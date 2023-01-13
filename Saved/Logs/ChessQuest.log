@@ -1326,3 +1326,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.01.13-23.36.52:296][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
 [2023.01.13-23.36.52:296][  1]LogNavigationDataBuild: Display:    FRecastNavMeshGenerator::ProcessTileTasksAndGetUpdatedTiles build time: 1.67s
 [2023.01.13-23.36.52:296][  1]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.RecastNavMesh-Default).
+[2023.01.13-23.38.45:616][342]LogDerivedDataCache: C:/Users/CWILL/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:26.288 and deleted 0 files with total size 0 MiB. Scanned 13680 files in 13483 folders with total size 544 MiB.
