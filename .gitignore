@@ -48,6 +48,7 @@ SourceArt/**/*.tga
 # Binary Files
 Binaries/*
 Plugins/*/Binaries/*
+CachedAssetRegistry.bin
 
 # Builds
 Build/*
@@ -72,3 +73,6 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+
+ChessQuest.log
