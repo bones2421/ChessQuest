@@ -1457,3 +1457,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.01.27-03.12.11:241][766]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content: 'C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content' is outside repository at 'C:/Unreal Projects/ChessQuest'
 [2023.01.27-03.12.11:241][766]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content: 'C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content' is outside repository at 'C:/Unreal Projects/ChessQuest'
 [2023.01.27-03.12.11:332][766]EditorErrors: Warning: No assets to check in!
+[2023.01.27-03.16.07:016][309]LogSlate: Window 'Source Control Login' being destroyed
