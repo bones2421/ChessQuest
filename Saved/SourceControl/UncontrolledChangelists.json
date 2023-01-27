@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/GitDesktopChessQuest/ChessQuest/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/GitDesktopChessQuest/ChessQuest/Content/MainMenuUI.uasset",
 				"C:/Unreal Projects/ChessQuest/Content/StarterContent/Shapes/Shape_Plane.uasset",
 				"C:/Unreal Projects/ChessQuest/Content/StarterContent/Maps/StarterMap_BuiltData.uasset",
 				"C:/Unreal Projects/ChessQuest/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset",
