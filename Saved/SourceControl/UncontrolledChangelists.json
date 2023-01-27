@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/ChessQuest/Content/StarterContent/Audio/Collapse01.uasset",
+				"D:/ChessQuest/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/ChessQuest/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Unreal Projects/ChessQuest/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Unreal Projects/ChessQuest/Content/__ExternalActors__/TopDown/Maps/TopDownMap/0/QS/8AKCSH4RXXQHHQMCR8GO6C.uasset",
 				"C:/Unreal Projects/ChessQuest/Content/__ExternalActors__/TopDown/Maps/TopDownMap/6/VI/ESHAVRHFZFA2JDR9ZAQIOE.uasset",
