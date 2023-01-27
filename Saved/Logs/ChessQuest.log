@@ -1458,3 +1458,29 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.01.27-03.12.11:241][766]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content: 'C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content' is outside repository at 'C:/Unreal Projects/ChessQuest'
 [2023.01.27-03.12.11:332][766]EditorErrors: Warning: No assets to check in!
 [2023.01.27-03.16.07:016][309]LogSlate: Window 'Source Control Login' being destroyed
+[2023.01.27-03.55.16:762][249]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.01.27-03.55.19:475][549]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.01.27-03.55.19:475][549]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.01.27-03.55.19:475][549]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_0
+[2023.01.27-03.55.19:481][549]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_0
+[2023.01.27-03.55.19:669][550]LogShaderCompilers: Display: ================================================
+[2023.01.27-03.55.19:669][550]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.01.27-03.55.19:669][550]LogShaderCompilers: Display: Total job queries 79, among them cache hits 0 (0.00%)
+[2023.01.27-03.55.19:669][550]LogShaderCompilers: Display: Tracking 79 distinct input hashes that result in 63 distinct outputs (79.75%)
+[2023.01.27-03.55.19:669][550]LogShaderCompilers: Display: RAM used: 0.73 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.04%
+[2023.01.27-03.55.19:669][550]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.01.27-03.55.19:669][550]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.01.27-03.55.19:669][550]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.01.27-03.55.19:669][550]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.01.27-03.55.19:669][550]LogShaderCompilers: Display: ================================================
+[2023.01.27-03.55.20:299][613]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.01.27-03.55.20:299][613]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.01.27-03.55.20:302][613]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_5811224C279FA06001_1972106695
+[2023.01.27-03.55.20:302][613]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_5811224C279FA06001_1972106695
+[2023.01.27-03.55.30:110][716]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.01.27-03.55.30:142][716]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/0/NT/H7REG4SN9NMY7MF4YJ6S55
+[2023.01.27-03.55.30:142][716]LogSavePackage: Moving '../../../../../../Unreal Projects/ChessQuest/Saved/H7REG4SN9NMY7MF4YJ6S55F761E4D24B65D2920AE64083B8EF2390.tmp' to '../../../../../../Unreal Projects/ChessQuest/Content/__ExternalActors__/TopDown/Maps/TopDownMap/0/NT/H7REG4SN9NMY7MF4YJ6S55.uasset'
+[2023.01.27-03.55.30:718][716]LogFileHelpers: InternalPromptForCheckoutAndSave took 607 ms (total: 909 ms)
+[2023.01.27-03.55.30:721][716]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_5811224C279FA06001_1972106695
+[2023.01.27-03.55.30:721][716]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_5811224C279FA06001_1972106695
+[2023.01.27-03.55.46:019][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
