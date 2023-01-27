@@ -1497,3 +1497,76 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.01.27-04.30.21:579][  7]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
 [2023.01.27-04.30.28:058][690]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
 [2023.01.27-04.32.29:176][319]LogDerivedDataCache: C:/Users/CWILL/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:37.161 and deleted 0 files with total size 0 MiB. Scanned 19255 files in 18958 folders with total size 802 MiB.
+[2023.01.27-04.34.06:350][294]AssetReimport: New page: Outstanding source content changes 2:34:06 PM
+[2023.01.27-04.34.06:352][294]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Unreal Projects/ChessQuest/Content/Models/ChessboardArena.fbx)
+[2023.01.27-04.34.06:369][294]LogFbx: Loading FBX Scene from C:/Unreal Projects/ChessQuest/Content/Models/ChessboardArena.fbx
+[2023.01.27-04.34.06:377][294]LogFbx: FBX Scene Loaded Succesfully
+[2023.01.27-04.34.10:038][294]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.01.27-04.34.10:086][294]LogStaticMesh: Built static mesh [0.00s] /Game/Models/ChessboardArena_Cube.ChessboardArena_Cube
+[2023.01.27-04.34.10:102][294]LogStaticMesh: Built static mesh [0.00s] /Game/Models/ChessboardArena_Cube_001.ChessboardArena_Cube_001
+[2023.01.27-04.34.10:778][294]LogStaticMesh: Built static mesh [0.00s] /Game/Models/ChessboardArena_Cube.ChessboardArena_Cube
+[2023.01.27-04.34.10:919][295]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.01.27-04.34.10:974][295]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.01.27-04.34.10:984][295]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 397 ms)
+[2023.01.27-04.34.13:989][643]AssetReimport: Importing new asset /Game/Models/ChessboardArena.
+[2023.01.27-04.34.26:107][ 54]AssetReimport: New page: Outstanding source content changes 2:34:26 PM
+[2023.01.27-04.34.26:108][ 54]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 C:/Unreal Projects/ChessQuest/Content/Models/ChessboardArena.fbm/NumbersandLetters.png)
+[2023.01.27-04.34.26:213][ 54]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2023.01.27-04.34.26:274][ 54]LogTexture: Display: Building textures: /Game/Models/ChessboardArena_fbm/NumbersandLetters.NumbersandLetters (TFO_AutoDXT, 8192x4096 x1x1x1) (Required Memory Estimate: 2304.062468 MB), EncodeSpeed: Fast
+[2023.01.27-04.34.26:509][ 55]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.01.27-04.34.26:643][ 55]LogTexture: Display: Waiting for textures to be ready 0/1 (/Game/Models/ChessboardArena_fbm/NumbersandLetters) ...
+[2023.01.27-04.34.27:145][ 55]LogSavePackage: Moving output files for package: /Game/Models/ChessboardArena_fbm/NumbersandLetters
+[2023.01.27-04.34.27:145][ 55]LogSavePackage: Moving '../../../../../../Unreal Projects/ChessQuest/Saved/NumbersandLettersC3DBB8D848BB7FA131F57B92BB9EBBF3.tmp' to '../../../../../../Unreal Projects/ChessQuest/Content/Models/ChessboardArena_fbm/NumbersandLetters.uasset'
+[2023.01.27-04.34.27:725][ 55]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.21 sec (total: 1.61 sec)
+[2023.01.27-04.34.27:741][ 56]AssetCheck: New page: Asset Save: NumbersandLetters
+[2023.01.27-04.34.27:741][ 56]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Models/ChessboardArena_fbm/NumbersandLetters.NumbersandLetters
+[2023.01.27-04.34.29:954][314]LogShaderCompilers: Display: ================================================
+[2023.01.27-04.34.29:954][314]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.01.27-04.34.29:954][314]LogShaderCompilers: Display: Total job queries 27, among them cache hits 0 (0.00%)
+[2023.01.27-04.34.29:954][314]LogShaderCompilers: Display: Tracking 24 distinct input hashes that result in 13 distinct outputs (54.17%)
+[2023.01.27-04.34.29:954][314]LogShaderCompilers: Display: RAM used: 0.13 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.01%
+[2023.01.27-04.34.29:954][314]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.01.27-04.34.29:954][314]LogShaderCompilers: Display: Shaders Compiled: 1
+[2023.01.27-04.34.29:954][314]LogShaderCompilers: Display: Jobs assigned 4, completed 1 (25.00%)
+[2023.01.27-04.34.29:954][314]LogShaderCompilers: Display: Time job spent in pending queue: average 0.10 s, longest 0.10 s
+[2023.01.27-04.34.29:954][314]LogShaderCompilers: Display: Job execution time: average 0.42 s, max 0.42 s
+[2023.01.27-04.34.29:954][314]LogShaderCompilers: Display: Job life time (pending + execution): average 0.52 s, max 0.52
+[2023.01.27-04.34.29:954][314]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.52 s
+[2023.01.27-04.34.29:954][314]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.01.27-04.34.29:954][314]LogShaderCompilers: Display: Average processing rate: 1.91 jobs/sec
+[2023.01.27-04.34.29:954][314]LogShaderCompilers: Display: Total thread time: 0.24 s
+[2023.01.27-04.34.29:954][314]LogShaderCompilers: Display: Total thread preprocess time: 0.02 s
+[2023.01.27-04.34.29:954][314]LogShaderCompilers: Display: Percentage time preprocessing: 8.03%
+[2023.01.27-04.34.29:954][314]LogShaderCompilers: Display: Effective parallelization: 0.47 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2023.01.27-04.34.29:954][314]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2023.01.27-04.34.29:954][314]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.24 sec, max 0.24 sec, min 0.24 sec)
+[2023.01.27-04.34.29:954][314]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2023.01.27-04.34.29:954][314]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 100.00% of total time (compiled    1 times, average 0.24 sec, max 0.24 sec, min 0.24 sec)
+[2023.01.27-04.34.29:954][314]LogShaderCompilers: Display: ================================================
+[2023.01.27-04.34.30:725][400]AssetReimport: Importing new asset /Game/Models/ChessboardArena_fbm/NumbersandLetters.
+[2023.01.27-04.35.14:554][823]LogSlate: Window 'Message Log' being destroyed
+[2023.01.27-04.35.14:559][823]LogSlate: Window 'Message Log' being destroyed
+[2023.01.27-04.35.16:505][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.01.27-04.35.16:571][ 47]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.01.27-04.35.16:638][ 47]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/ChessboardArena_Cube" FILE="../../../../../../Unreal Projects/ChessQuest/Content/Models/ChessboardArena_Cube.uasset" SILENT=true
+[2023.01.27-04.35.16:640][ 47]LogSavePackage: Moving output files for package: /Game/Models/ChessboardArena_Cube
+[2023.01.27-04.35.16:640][ 47]LogSavePackage: Moving '../../../../../../Unreal Projects/ChessQuest/Saved/ChessboardArena_Cube7FDBE41D46012F1E9509A9BCE5277206.tmp' to '../../../../../../Unreal Projects/ChessQuest/Content/Models/ChessboardArena_Cube.uasset'
+[2023.01.27-04.35.17:557][ 47]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Chessboard" FILE="../../../../../../Unreal Projects/ChessQuest/Content/Models/Chessboard.uasset" SILENT=true
+[2023.01.27-04.35.17:558][ 47]LogSavePackage: Moving output files for package: /Game/Models/Chessboard
+[2023.01.27-04.35.17:558][ 47]LogSavePackage: Moving '../../../../../../Unreal Projects/ChessQuest/Saved/Chessboard4DADF931402FD5CA3C6F869572DE6DFB.tmp' to '../../../../../../Unreal Projects/ChessQuest/Content/Models/Chessboard.uasset'
+[2023.01.27-04.35.18:292][ 47]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Marble" FILE="../../../../../../Unreal Projects/ChessQuest/Content/Models/Marble.uasset" SILENT=true
+[2023.01.27-04.35.18:294][ 47]LogSavePackage: Moving output files for package: /Game/Models/Marble
+[2023.01.27-04.35.18:294][ 47]LogSavePackage: Moving '../../../../../../Unreal Projects/ChessQuest/Saved/Marble1D3DEE06471AE10EC6065E8DD6A63D63.tmp' to '../../../../../../Unreal Projects/ChessQuest/Content/Models/Marble.uasset'
+[2023.01.27-04.35.18:308][ 47]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/ChessboardArena_Cube_001" FILE="../../../../../../Unreal Projects/ChessQuest/Content/Models/ChessboardArena_Cube_001.uasset" SILENT=true
+[2023.01.27-04.35.18:310][ 47]LogSavePackage: Moving output files for package: /Game/Models/ChessboardArena_Cube_001
+[2023.01.27-04.35.18:310][ 47]LogSavePackage: Moving '../../../../../../Unreal Projects/ChessQuest/Saved/ChessboardArena_Cube_001E4865A8846A38EAC20DCA1BBA2D5A9AF.tmp' to '../../../../../../Unreal Projects/ChessQuest/Content/Models/ChessboardArena_Cube_001.uasset'
+[2023.01.27-04.35.19:041][ 47]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Material_003" FILE="../../../../../../Unreal Projects/ChessQuest/Content/Models/Material_003.uasset" SILENT=true
+[2023.01.27-04.35.19:043][ 47]LogSavePackage: Moving output files for package: /Game/Models/Material_003
+[2023.01.27-04.35.19:043][ 47]LogSavePackage: Moving '../../../../../../Unreal Projects/ChessQuest/Saved/Material_003C5CC32D34C56389CCF1FE39CFB51868C.tmp' to '../../../../../../Unreal Projects/ChessQuest/Content/Models/Material_003.uasset'
+[2023.01.27-04.35.19:605][ 47]LogFileHelpers: InternalPromptForCheckoutAndSave took 3.03 sec (total: 4.64 sec)
+[2023.01.27-04.35.19:608][ 47]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.27-04.35.19:608][ 47]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Models/Material_003.Material_003
+[2023.01.27-04.35.19:608][ 47]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Models/ChessboardArena_Cube_001.ChessboardArena_Cube_001
+[2023.01.27-04.35.19:608][ 47]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Models/Marble.Marble
+[2023.01.27-04.35.19:608][ 47]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Models/Chessboard.Chessboard
+[2023.01.27-04.35.19:608][ 47]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Models/ChessboardArena_Cube.ChessboardArena_Cube
